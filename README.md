@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahekgor17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahekgor17" height="30" width="40" /></a>
+<a href="https://twitter.com/mahekgor17" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://icons8.com/icon/zXhRTdxWEKE5/twitter)" alt="mahekgor17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahek gor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahek gor" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mahek_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mahek_17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahekgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahekgor" height="30" width="40" /></a>
